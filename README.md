@@ -113,3 +113,6 @@ package.json
 ```
 
 [create-react-app Warning Fix Blog Post](https://community.netlify.com/t/how-to-fix-build-failures-with-create-react-app-in-production/17752)
+
+how to git deploy to Netifly
+https://www.udemy.com/course/react-tutorial-and-projects-course/learn/lecture/21055098#content
